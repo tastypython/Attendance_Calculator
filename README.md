@@ -4,7 +4,6 @@ Project to calcuate attendance
 
 How Many Days
 
-Program 1
 A school has 75 % attendance cumpulsary, for each diffrent subject.
 Write a program which calculates how many classes can Sana skip in total, for each subject and prints this result.
 
