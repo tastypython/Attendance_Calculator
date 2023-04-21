@@ -19,7 +19,7 @@ Code for the inofrmation is given below :
 
 
 #this code shows the timetable. Each sublist is a week, each subject is the first lecture of that week. Whole time table from 
-#monday to friday is represented.
+monday to friday is #represented.
 
 timetable = [ ['English','Science','Maths','CS'],['Urdu','Science','GK','P.E'],['English','Maths','CS','PE'],
               ['Science','GK','CS','English'],['Maths','Urdu','GK','P.E'] ]
