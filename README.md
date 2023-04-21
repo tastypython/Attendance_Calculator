@@ -7,10 +7,8 @@ How Many Days
 A school has 75 % attendance cumpulsary, for each diffrent subject.
 Write a program which calculates how many classes can Sana skip in total, for each subject and prints this result.
 
-Information needed:
 
-1. The timetable of the week
-timetable can be represented as a list in the following manner : The first two lines of code is filled for you
+The first two lines of code is filled for you
 
 Code for the inofrmation is given below :
 
