@@ -25,6 +25,8 @@ timetable = [ ['English','Science','Maths','CS'],['Urdu','Science','GK','P.E'],[
               ['Science','GK','CS','English'],['Maths','Urdu','GK','P.E'] ]
 
 Start_of_class='01_03_2023'
+
+
 End_of_class='30_05_2023'
 
 holidays=['14_04_2023','13_03_2023','17_04_2023','19_03_2023']
